@@ -1,3 +1,4 @@
+" My Vim Config
 if v:progname =~? "evim"
   finish
 endif
